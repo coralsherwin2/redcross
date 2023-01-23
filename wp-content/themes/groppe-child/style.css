@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Groppe Child
+ Theme URI:    http://victorthemes/themes/groppe
+ Description:  Groppe Child Theme
+ Author:       VictorThemes
+ Author URI:   http://themeforest.net/user/VictorThemes/portfolio
+ Template:     groppe
+ Version:      1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         one-column, two-columns, left-sidebar, right-sidebar, custom-menu, featured-images, post-formats, theme-options, translation-ready
+ Text Domain:  groppe-child
+*/
+
+/* Write Custom CSS */
+.grop-cntdwn_evt_btn_wrp{
+	display:none !important;
+}
+.single-tribe_events .tribe-events-event-image{
+	display:none !important;
+}
